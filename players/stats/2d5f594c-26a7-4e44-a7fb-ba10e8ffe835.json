@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:red_mushroom": 5
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1947,
+      "minecraft:walk_one_cm": 9578,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 185,
+      "minecraft:play_time": 1947,
+      "minecraft:damage_dealt": 200,
+      "minecraft:jump": 54,
+      "minecraft:time_since_death": 1947,
+      "minecraft:drop": 5,
+      "minecraft:sprint_one_cm": 1811,
+      "minecraft:fall_one_cm": 325,
+      "minecraft:total_world_time": 1947,
+      "minecraft:fly_one_cm": 8178,
+      "minecraft:walk_on_water_one_cm": 280
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 7,
+      "minecraft:arrow": 1,
+      "minecraft:red_mushroom": 5,
+      "minecraft:bone": 1
+    },
+    "minecraft:mined": {
+      "minecraft:red_mushroom_block": 12,
+      "minecraft:leaf_litter": 2
+    },
+    "minecraft:used": {
+      "minecraft:leaf_litter": 7
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1
+    }
+  },
+  "DataVersion": 4903
+}
